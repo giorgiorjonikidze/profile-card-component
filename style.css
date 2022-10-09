@@ -1,0 +1,36 @@
+body {
+    background-color: #19A1AE;;
+    background-position: 160px 280px, -795px -500px;
+    background-repeat: no-repeat, no-repeat;
+    background-image: url(./images/bg-pattern-bottom.svg), url(./images/bg-pattern-top.svg);
+}
+
+.main-block {
+  height: 374px;
+  width: 326px;
+
+  
+}
+
+.face-image {
+    top: 81px;
+    
+}
+
+.face-name {
+    top: 196px;
+}
+.london {
+    top: 230px;
+    color: #6B7082;
+}
+
+.stroke {
+    background-color: #E8E9EC;
+    top: 290px;
+    width: 100%;
+}
+.social {
+    top: 303px;
+    width: 233px;
+}
